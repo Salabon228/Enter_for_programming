@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\bin\Debug\net6.0\praktikum.exe
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\bin\Debug\net6.0\praktikum.deps.json
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\bin\Debug\net6.0\praktikum.runtimeconfig.json
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\bin\Debug\net6.0\praktikum.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\bin\Debug\net6.0\ref\praktikum.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\bin\Debug\net6.0\praktikum.pdb
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.GlobalUsings.g.cs
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.AssemblyInfo.cs
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\ref\praktikum.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.pdb
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\praktikum\obj\Debug\net6.0\praktikum.genruntimeconfig.cache
