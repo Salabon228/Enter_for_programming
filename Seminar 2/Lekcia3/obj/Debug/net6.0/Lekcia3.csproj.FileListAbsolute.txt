@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\bin\Debug\net6.0\Lekcia3.exe
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\bin\Debug\net6.0\Lekcia3.deps.json
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\bin\Debug\net6.0\Lekcia3.runtimeconfig.json
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\bin\Debug\net6.0\Lekcia3.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\bin\Debug\net6.0\ref\Lekcia3.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\bin\Debug\net6.0\Lekcia3.pdb
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.GlobalUsings.g.cs
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.AssemblyInfo.cs
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\ref\Lekcia3.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.pdb
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Lekcia3\obj\Debug\net6.0\Lekcia3.genruntimeconfig.cache
