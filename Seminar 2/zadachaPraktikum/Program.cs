@@ -30,6 +30,8 @@ while (index < 10)
     index++;
 }
 Console.WriteLine();
+Console.WriteLine("Последовательность исключающая элементы нарушения возрастания:");
+Console.WriteLine();
 // Исключение элементов нарушения возрастания
 index = 1;
 int CurrentElement = A[0];
@@ -38,10 +40,49 @@ while (index < 10)
 {
     if(A[index] > CurrentElement)
     {
-        Console.WriteLine(A[index]);
-        CurrentElement = A[index];
-        
+        Console.WriteLine($"{A[index]} "); 
+        CurrentElement = A[index];    
     }
-
     index++;
 }
+
+//================== 2 подзадача ======================
+index = 0;
+double SAR = 0;
+while (index < 10)
+{
+    SAR = SAR + A[index];
+    index++;
+}
+SAR = SAR / 10;
+Console.WriteLine();
+Console.WriteLine($"Среднее арифметическое массива А = {SAR}");
+Console.WriteLine();
+Console.WriteLine("Последовательность, которая больше среднего арифметического элементов A:");
+Console.WriteLine();
+
+index = 0;
+
+while (index < 10)
+{
+    if(A[index] > SAR)
+    {
+        Console.Write($"{A[index]} ");   
+    }
+    index++;
+}
+Console.WriteLine();
+Console.WriteLine();
+Console.WriteLine("Четные элементы массива A:");
+
+index = 0;
+
+while (index < 10)
+{
+    if(A[index] % 2 == 0)
+    {
+        Console.Write($"{A[index]} "); 
+    }
+    index++;
+}
+Console.WriteLine();
