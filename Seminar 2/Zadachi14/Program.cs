@@ -8,27 +8,19 @@
         // Console.WriteLine($"Квадрат введенного числа равен: {A}");
 
         // ========================== Задача 1 ===========================
-        // void FirstSquerOrNo(int a, int b)
-        // {
-        // int res = b * b;
-        // Console.WriteLine();
-        // Console.WriteLine($"первое число равно {a}");
-        // Console.WriteLine();
-        // Console.WriteLine($"второе число равно {b}");
-        // Console.WriteLine();
-        // Console.WriteLine($"квадрат второго числа равен {res}");
-        // Console.WriteLine();
-        // if ( b * b == a) 
-        //         {
-        //         Console.WriteLine("Да, действительно. Первое число является квадратом второго");
-        //         }
-        //         else 
-        //         {
-        //         Console.WriteLine("Нет первое число не является квадратом второго");
-        //         }
-        //         Console.WriteLine();
-        // }
-        // FirstSquerOrNo(9, 3);
+bool FirstSquerOrNo(int a, int b)
+{
+
+if ( b * b == a) 
+        {
+        return true;
+        }
+        else 
+        {
+        return false;
+        }
+}
+Console.WriteLine(FirstSquerOrNo(8, 3));
 
 
 
@@ -90,6 +82,7 @@
         
         
         // ========================== Задача 5 ===========================
+
         // Написать программу вычисления значения функции sin^10(a)
         // в скобках угол в градусах
 
@@ -109,21 +102,8 @@
         // ========================== Задача 6 ===========================
         
         // Выяснить является ли число чётным
-        // void ChetOrNo(int a)
-        // {
-        //         if(a % 2 == 0) 
-        //         {
-        //                 if(a == 0) Console.WriteLine($"Число {a} явлеется НУЛЕВЫМ");
-        //                 else
-        //                 {
-        //                     Console.WriteLine($"Число {a} явлеется ЧЕТНЫМ");
-        //                 }   
-        //         }
-        //         else
-        //         {
-        //                 if(a % 2 == 1) Console.WriteLine($"Число {a} явлеется НЕЧЕТНЫМ");       
-        //         }
-        // }
-        // Console.WriteLine();
-        // ChetOrNo(22);
-        // Console.WriteLine();
+
+        // посмотреть в записи...
+
+        // ========================== Задача 6 ===========================
+
