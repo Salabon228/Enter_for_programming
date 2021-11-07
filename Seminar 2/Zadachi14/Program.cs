@@ -25,31 +25,43 @@
 
 
         // ========================== Задача 2 ===========================
-        
-        // Вывести большее число из 2-х
-int WhoMore(int a, int b)
-{
-return a > b? a : b;
-}
 
-Console.WriteLine(WhoMore(2, 177));
+        // Вывести большее число из 2-х
+        // int WhoMore(int a, int b)
+        // {
+        // return a > b? a : b;
+        // }
+
+        // Console.WriteLine(WhoMore(2, 177));
 
 
 
         // ========================== Задача 3 ===========================
-        // По заданному номеру дня недели вывести его название
+        //По заданному номеру дня недели вывести его название
 
-                // void DayOnWeek(int day)
-                // {
-                //         if( day == 1) Console.WriteLine("это понедельник");
-                //         if( day == 2) Console.WriteLine("это вторник");
-                //         if( day == 3) Console.WriteLine("это среда");
-                //         if( day == 4) Console.WriteLine("это четверг");
-                //         if( day == 5) Console.WriteLine("это пятница");
-                //         if( day == 6) Console.WriteLine("это суббота");
-                //         if( day == 7) Console.WriteLine("это воскресенье");
-                // }
-                // DayOnWeek(4);    
+
+             // понедельник вторник среда четверг пятница суббота воскресенье
+                                                        // string weekDays(int day)
+                                                        // {
+                                                        //         string[] weekDays = new string[] {  "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" , "Sun"}; 
+                                                        //         int length = weekDays.Length;
+                                                        //         string result = String.Empty;
+                                                        //         for (int i = 0; i < length; i++)
+                                                        //         {
+                                                        //             if( day > 7)
+                                                        //             {
+                                                        //             Console.WriteLine("Такого дня недели не существует");
+                                                        //             break;
+                                                        //             }
+                                                        //             else
+                                                        //             {
+                                                        //               if (day - 1 == i)
+                                                        //             result = result + weekDays[i];  
+                                                        //             }           
+                                                        //         }
+                                                        //          return result;  
+                                                        // } 
+                                                        // Console.WriteLine(weekDays(5));     
 
 
 
