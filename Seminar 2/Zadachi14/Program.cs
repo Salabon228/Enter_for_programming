@@ -8,42 +8,31 @@
         // Console.WriteLine($"Квадрат введенного числа равен: {A}");
 
         // ========================== Задача 1 ===========================
-bool FirstSquerOrNo(int a, int b)
-{
-
-if ( b * b == a) 
-        {
-        return true;
-        }
-        else 
-        {
-        return false;
-        }
-}
-Console.WriteLine(FirstSquerOrNo(8, 3));
-
-
-
-        // ========================== Задача 2 ===========================
-        // void WhoMore(int a, int b)
+        // По двум заданным числам проверять является ли первое квадратом второго
+        // bool FirstSquerOrNo(int a, int b)
         // {
 
-        // Console.WriteLine();
-        // Console.WriteLine($"первое число равно {a}");
-        // Console.WriteLine();
-        // Console.WriteLine($"второе число равно {b}");
-        // Console.WriteLine();
-        //         if ( a > b ) 
+        // if ( b * b == a) 
         //         {
-        //         Console.WriteLine($"Первое число больше, так как {a} больше, чем {b}");
+        //         return true;
         //         }
         //         else 
         //         {
-        //         Console.WriteLine($"Второе число больше, так как {b} больше, чем {a}");
+        //         return false;
         //         }
-        //         Console.WriteLine();
-        // }  
-        // WhoMore(2, 177);
+        // }
+        // Console.WriteLine(FirstSquerOrNo(8, 3));
+
+
+        // ========================== Задача 2 ===========================
+        
+        // Вывести большее число из 2-х
+int WhoMore(int a, int b)
+{
+return a > b? a : b;
+}
+
+Console.WriteLine(WhoMore(2, 177));
 
 
 
