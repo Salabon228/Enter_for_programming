@@ -41,31 +41,35 @@
 
 
              // понедельник вторник среда четверг пятница суббота воскресенье
-                                                        // string weekDays(int day)
-                                                        // {
-                                                        //         string[] weekDays = new string[] {  "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" , "Sun"}; 
-                                                        //         int length = weekDays.Length;
-                                                        //         string result = String.Empty;
-                                                        //         for (int i = 0; i < length; i++)
-                                                        //         {
-                                                        //             if( day > 7)
-                                                        //             {
-                                                        //             Console.WriteLine("Такого дня недели не существует");
-                                                        //             break;
-                                                        //             }
-                                                        //             else
-                                                        //             {
-                                                        //               if (day - 1 == i)
-                                                        //             result = result + weekDays[i];  
-                                                        //             }           
-                                                        //         }
-                                                        //          return result;  
-                                                        // } 
-                                                        // Console.WriteLine(weekDays(5));     
+string weekDays(int day)
+{
+        if(day <= 0 || day >= 8) return "Вы с другой планеты";
+        string[] weekDays = new string[] {  "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" , "Sun"}; 
+        
+        return weekDays[day-1];  // Спасибо Сергею за спасенные ячейки памяти!
+//         int length = weekDays.Length;
+//         string result = String.Empty;
+//         for (int i = 0; i < length; i++)
+//         {
+//                 if( day > 7)
+//                 {
+//                 Console.WriteLine("Такого дня недели не существует");
+//                 break;
+//                 }
+//                 else
+//                 {
+//                 if (day - 1 == i)
+//                 result = result + weekDays[i];  
+//                 }           
+//         }
+//                 return result;  
+} 
+Console.WriteLine(weekDays(0));     
 
 
 
         // ========================== Задача 4 ===========================
+        
         // Найти максимальное из трех чисел 
         // int MaxOfThree(int a, int b, int c)
         // {
