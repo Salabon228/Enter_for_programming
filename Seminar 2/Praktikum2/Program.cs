@@ -40,13 +40,13 @@
 // int PlayersNumber = requestNumber();
 
 
-int createNumber(int MinValue, int MaxValue) // загадали число
+int createNumber(int MinValue, int MaxValue) // компьютер запоминает число
 {
     int number = new Random().Next(MinValue, MaxValue);
     return number;
 }
 
-int compnumber = createNumber( 1, 101 );
+int compnumber = createNumber(1, 101);
 System.Console.WriteLine(compnumber);
 
 
@@ -64,8 +64,8 @@ int RequestNumber() // проверяем число
     System.Console.Write("Введите число:    ");
     string writeNumber = Console.ReadLine();
     bool result = int.TryParse(writeNumber, out int number);
-    
-    
+
+
     System.Console.WriteLine();
     if (result == false) System.Console.WriteLine("Число введено неверно.");
 
@@ -82,7 +82,7 @@ int RequestNumber() // проверяем число
 
 //=====================================================
 
-void MakeMove(int count,int compnumber)
+void MakeMove(int count, int compnumber)
 {
     int usernumber = 0;
     for (int i = 0; i < count; i++)
@@ -92,7 +92,7 @@ void MakeMove(int count,int compnumber)
         {
             System.Console.WriteLine("Ура, вы угадали число!");
             break;
-        } 
+        }
         if (usernumber < compnumber) System.Console.WriteLine("Введеное число меньше загадоного ");
         if (usernumber > compnumber) System.Console.WriteLine("Введеное число больше загадоного");
     }
@@ -100,3 +100,4 @@ void MakeMove(int count,int compnumber)
 }
 
 MakeMove(count, compnumber);
+
