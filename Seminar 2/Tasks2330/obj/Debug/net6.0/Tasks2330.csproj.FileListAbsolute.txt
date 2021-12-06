@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.GlobalUsings.g.cs
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.AssemblyInfo.cs
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\bin\Debug\net6.0\Tasks2330.exe
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\bin\Debug\net6.0\Tasks2330.deps.json
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\bin\Debug\net6.0\Tasks2330.runtimeconfig.json
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\bin\Debug\net6.0\Tasks2330.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\bin\Debug\net6.0\ref\Tasks2330.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\bin\Debug\net6.0\Tasks2330.pdb
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\ref\Tasks2330.dll
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.pdb
+C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks2330\obj\Debug\net6.0\Tasks2330.genruntimeconfig.cache
