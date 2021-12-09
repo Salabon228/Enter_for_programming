@@ -172,27 +172,28 @@
 // ========================== Задача 40 ===========================
 // 40. В Указанном массиве вещественных чисел найдите разницу между максимальным и минимальным элементом
 
-double[] Array = new double[8];
-double razn = 0;
-
-    for (int i = 0; i < Array.Length; i++)
-    {
-        Array[i] = new Random().NextDouble();
-        System.Console.WriteLine(Array[i]);
-    }
-        double max = 0;
-        double min = 0;
-        for (int i = 1; i < Array.Length; i++)
-        {
-            if (Array[i]>=Array[i-1])
-            {
-                max = Array[i];
-            }
-            else
-            {
-                min = Array[i];
-            }
-        }
-razn = max - min;
-System.Console.WriteLine($"Разность между максималдьным и минимальным числом равна {razn}");
-// эту задачу надо проверить, результат не сходится
+// double[] Array = new double[8];
+// double razn = 0; 
+//     for (int i = 0; i < Array.Length; i++)
+//     {
+//         Array[i] = new Random().NextDouble();
+//         System.Console.WriteLine(Array[i]);             
+//     }
+//         double max = Array[1];
+//         double min = Array[0];
+//         for (int i = 1; i < Array.Length; i++)
+//         {
+//             if (Array[i]>=max)
+//             {
+//                 max = Array[i];
+//             }
+//             else
+//             {
+//                 if (Array[i] < min)
+//                 {
+//                     min = Array[i];
+//                 }    
+//             }
+//         }
+// razn = max - min;
+// System.Console.WriteLine($"Разность между максималдьным и минимальным числом равна {razn}");
