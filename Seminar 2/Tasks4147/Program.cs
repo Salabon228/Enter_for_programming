@@ -31,3 +31,35 @@
 // ========================== Задача 42 ===========================
 
 // 42. Определить сколько чисел больше 0 введено с клавиатуры
+// мое решение          // System.Console.WriteLine("Введите число");
+                        // int num = Convert.ToInt16(Console.ReadLine());
+                        // int ConsiderNumber(int num)
+                        // {
+                        //     int result = 0;
+                        //     while (num > 0)
+                        //     {
+                        //         System.Console.WriteLine($"число равно {num}");
+                        //         if (num == 0)
+                        //         {
+                        //             System.Console.WriteLine("подсчет закончен, число рано 0");
+                        //             return result;
+                        //         }
+                        //         else
+                        //         {
+                        //             if (num % 10 > 0)
+                        //             {
+                        //                 System.Console.WriteLine("на конце цифра больше 0, прибавляем к result + 1 и разделим еще на 10");
+                        //                 result++;
+                        //                 num = num / 10;
+                        //             }
+                        //             else
+                        //             { 
+                        //                 System.Console.WriteLine("на конце 0, значит разделим число на 10");
+                        //                 num = num / 10;
+                        //             }
+                        //         }
+                        //     }
+                        //     System.Console.Write("в заданном числе больше 0 вот сколько цифр: ");
+                        //     return result;
+                        // }
+                        // Console.WriteLine(ConsiderNumber(num));
