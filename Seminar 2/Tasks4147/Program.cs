@@ -31,7 +31,8 @@
 // ========================== Задача 42 ===========================
 
 // 42. Определить сколько чисел больше 0 введено с клавиатуры
-// мое решение          // System.Console.WriteLine("Введите число");
+// мое решение          
+                        // System.Console.WriteLine("Введите число");
                         // int num = Convert.ToInt16(Console.ReadLine());
                         // int ConsiderNumber(int num)
                         // {
@@ -63,3 +64,4 @@
                         //     return result;
                         // }
                         // Console.WriteLine(ConsiderNumber(num));
+    // программа считает количество цифр в числе, а надо считать сколько чисел введено позьзователем.
