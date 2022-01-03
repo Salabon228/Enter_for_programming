@@ -58,13 +58,13 @@
 
 // ========================== Задача 26 ===========================
 // 26. Возведите число А в натуральную степень B используя цикл
-int Stepen(int a, int b)
-{
-    int result = a;
-    for (int i = 1; i <= b; i++)
-    {
-        result = 
-    }
-    return result;
-}
-System.Console.WriteLine(Stepen(2,3));
+// int Stepen(int a, int b)
+// {
+//     int result = a;
+//     for (int i = 1; i <= b; i++)
+//     {
+//         result = 
+//     }
+//     return result;
+// }
+// System.Console.WriteLine(Stepen(2,3));
