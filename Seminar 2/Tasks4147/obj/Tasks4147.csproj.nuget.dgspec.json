@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Учеба\\2 Программирование начало\\Enter for proggraming\\Seminar 2\\Tasks4147\\Tasks4147.csproj": {}
+    "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Tasks4147\\Tasks4147.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Учеба\\2 Программирование начало\\Enter for proggraming\\Seminar 2\\Tasks4147\\Tasks4147.csproj": {
+    "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Tasks4147\\Tasks4147.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Учеба\\2 Программирование начало\\Enter for proggraming\\Seminar 2\\Tasks4147\\Tasks4147.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Tasks4147\\Tasks4147.csproj",
         "projectName": "Tasks4147",
-        "projectPath": "C:\\Users\\User\\Documents\\Учеба\\2 Программирование начало\\Enter for proggraming\\Seminar 2\\Tasks4147\\Tasks4147.csproj",
+        "projectPath": "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Tasks4147\\Tasks4147.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Учеба\\2 Программирование начало\\Enter for proggraming\\Seminar 2\\Tasks4147\\obj\\",
+        "outputPath": "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Tasks4147\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

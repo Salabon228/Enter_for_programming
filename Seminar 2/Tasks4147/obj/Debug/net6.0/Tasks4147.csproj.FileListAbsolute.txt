@@ -14,3 +14,19 @@ C:\Users\User\Documents\Учеба\2 Программирование начал
 C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks4147\obj\Debug\net6.0\ref\Tasks4147.dll
 C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.pdb
 C:\Users\User\Documents\Учеба\2 Программирование начало\Enter for proggraming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.genruntimeconfig.cache
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\bin\Debug\net6.0\Tasks4147.exe
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\bin\Debug\net6.0\Tasks4147.deps.json
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\bin\Debug\net6.0\Tasks4147.runtimeconfig.json
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\bin\Debug\net6.0\Tasks4147.dll
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\bin\Debug\net6.0\ref\Tasks4147.dll
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\bin\Debug\net6.0\Tasks4147.pdb
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.GlobalUsings.g.cs
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.csproj.AssemblyReference.cache
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.AssemblyInfoInputs.cache
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.AssemblyInfo.cs
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.csproj.CoreCompileInputs.cache
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.dll
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\ref\Tasks4147.dll
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.pdb
+C:\Users\User\Enter_for_programming\Seminar 2\Tasks4147\obj\Debug\net6.0\Tasks4147.genruntimeconfig.cache
