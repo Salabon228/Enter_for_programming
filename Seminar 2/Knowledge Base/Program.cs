@@ -105,8 +105,6 @@
 // System.Console.WriteLine(myArray[^1]);                                               // [^1] это означает последний номер индекса в массиве
 
 // System.Console.WriteLine(myArray[^1]);
-<<<<<<< HEAD
-=======
 
 // for (int i = 0; i < myArray.Length; i++)
 // {
@@ -305,4 +303,3 @@ for (int i = 0; i < myArray.GetLength(0); i++)            // Задали дву
     }
     System.Console.WriteLine();
 }
->>>>>>> 68631fd81f1e6bfe6eecaf6fe4b964a0bffa301d
