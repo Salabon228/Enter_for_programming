@@ -1,28 +1,43 @@
-﻿double[,] GetRandomArray(int rows, int columns)
+﻿int rows = 3;
+int columns = 3;
+
+int[,] GetRandomArray(int rows, int columns)
 {
     Random random = new Random();
-    var result = new double[rows,columns];
+    var result = new int[rows, columns];
     for (int i = 0; i < rows; i++)
-    {                                                            
+    {
         for (int j = 0; j < columns; j++)
         {
-            result[i,j] = random.NextDouble();
-        }   
+            result[i, j] = random.Next(1, 11);
+        }
     }
     return result;
 }
-int rows = 3;
-int columns = 3;
-
-void PrintArray(double[,] array)
+int[,] ChangeArray(int[,] array)
 {
     for (int i = 0; i < rows; i++)
     {
         for (int j = 0; j < columns; j++)
         {
-            System.Console.Write($"{array[i,j]}\t");
+            if (array[i, j] % 2 == 0)
+            {
+                array[i, j] = -array[i, j];
+            }
+        }
+    }
+    return array;
+}
+void PrintArray(int[,] array)
+{
+    for (int i = 0; i < rows; i++)
+    {
+        for (int j = 0; j < columns; j++)
+        {
+            System.Console.Write($"{array[i, j]}\t");
         }
         System.Console.WriteLine();
     }
 }
-PrintArray(GetRandomArray(3,3));
+
+PrintArray(ChangeArray(GetRandomArray(rows, columns)));
