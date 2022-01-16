@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj": {}
+    "C:\\Users\\Я\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj": {
+    "C:\\Users\\Я\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj",
+        "projectUniqueName": "C:\\Users\\Я\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj",
         "projectName": "Task 48",
-        "projectPath": "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Enter_for_programming\\Seminar 2\\Task 48\\obj\\",
+        "projectPath": "C:\\Users\\Я\\Enter_for_programming\\Seminar 2\\Task 48\\Task 48.csproj",
+        "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Я\\Enter_for_programming\\Seminar 2\\Task 48\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

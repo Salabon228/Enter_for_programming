@@ -105,8 +105,3 @@
 // System.Console.WriteLine(myArray[^1]);                                               // [^1] это означает последний номер индекса в массиве
 
 // System.Console.WriteLine(myArray[^1]);
-
-// for (int i = 0; i < myArray.Length; i++)
-// {
-//     System.Console.Write($"{myArray[i]} ");  
-// }
