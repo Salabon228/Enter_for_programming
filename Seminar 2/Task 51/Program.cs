@@ -1,5 +1,5 @@
-﻿int rows = 3;
-int columns = 3;
+﻿int rows = 5;
+int columns = 5;
 
 int[,] GetRandomArray(int rows, int columns)
 {
@@ -20,10 +20,7 @@ int[,] ChangeArray(int[,] array)
     {
         for (int j = 0; j < columns; j++)
         {
-            if (array[i, j] % 2 == 0)
-            {
-                array[i, j] = -array[i, j];
-            }
+            array[i, j] = i + j;
         }
     }
     return array;
